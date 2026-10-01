@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 800 336" width="800" height="336">
+<style>text{font-family:Fira Code, Consolas, DejaVu Sans Mono, monospace;font-size:18px}@keyframes l0{0%,3.75%{clip-path:inset(0 100% 0 0)}6.75%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.l0{animation:l0 16.0s steps(8) infinite}@keyframes l1{0%,9.88%{clip-path:inset(0 100% 0 0)}10.19%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.l1{animation:l1 16.0s steps(11) infinite}@keyframes l2{0%,12.38%{clip-path:inset(0 100% 0 0)}18.38%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.l2{animation:l2 16.0s steps(16) infinite}@keyframes l3{0%,21.50%{clip-path:inset(0 100% 0 0)}21.81%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.l3{animation:l3 16.0s steps(15) infinite}@keyframes l4{0%,24.00%{clip-path:inset(0 100% 0 0)}24.31%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.l4{animation:l4 16.0s steps(39) infinite}@keyframes l5{0%,26.50%{clip-path:inset(0 100% 0 0)}26.81%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.l5{animation:l5 16.0s steps(22) infinite}@keyframes l6{0%,29.00%{clip-path:inset(0 100% 0 0)}36.12%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.l6{animation:l6 16.0s steps(19) infinite}@keyframes l7{0%,39.25%{clip-path:inset(0 100% 0 0)}39.56%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}.l7{animation:l7 16.0s steps(39) infinite}
+.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}</style>
+<rect width="800" height="336" rx="12" fill="#0D0221" stroke="#7B2FF7" stroke-opacity=".6"/>
+<rect width="800" height="36" rx="12" fill="#1a0f3a"/><rect y="24" width="800" height="12" fill="#1a0f3a"/>
+<circle cx="24" cy="18" r="6" fill="#FF2BD6"/><circle cx="46" cy="18" r="6" fill="#7B2FF7"/><circle cx="68" cy="18" r="6" fill="#00F0FF"/>
+<text x="400" y="23" text-anchor="middle" fill="#9D8CFF" style="font-size:13px">davi@cloudnine: ~</text>
+<text class="l0" x="30" y="78" fill="#00F0FF"><tspan fill="#FF2BD6">$</tspan><tspan fill="#00F0FF"> whoami</tspan></text>
+<text class="l1" x="30" y="106" fill="#E0E0FF">davi_soares</text>
+<text class="l2" x="30" y="146" fill="#00F0FF"><tspan fill="#FF2BD6">$</tspan><tspan fill="#00F0FF"> cat perfil.txt</tspan></text>
+<text class="l3" x="30" y="174" fill="#E0E0FF">foco     : Java</text>
+<text class="l4" x="30" y="202" fill="#E0E0FF">objetivo : vaga júnior / jovem aprendiz</text>
+<text class="l5" x="30" y="230" fill="#E0E0FF">local    : Crateús, CE</text>
+<text class="l6" x="30" y="270" fill="#00F0FF"><tspan fill="#FF2BD6">$</tspan><tspan fill="#00F0FF"> ./rodar_rotina.sh</tspan></text>
+<text class="l7" x="30" y="298" fill="#E0E0FF">estudar -&gt; codar -&gt; commitar -&gt; repetir</text>
+<rect class="cur" x="30" y="304" width="11" height="20" fill="#00F0FF"/>
+</svg>
