@@ -14,36 +14,76 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=CloudNine-dav&label=VISITAS&color=7B2FF7&style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/OBJETIVO-VAGA%20J%C3%9ANIOR-7B2FF7?style=flat-square&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/DISPON%C3%8DVEL-PARA%20OPORTUNIDADES-00F0FF?style=flat-square&labelColor=0D0221" />
+<img src="https://komarev.com/ghpvc/?username=CloudNine-dav&label=VISITAS&color=FF2BD6&style=flat-square&labelColor=0D0221" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
 
-## `> sobre_mim`
+## `> whoami`
 
-```java
-public class Davi {
-    String nome      = "Davi Soares de Oliveira";
-    String local     = "Crateús, Ceará - Brasil";
-    String foco      = "Desenvolvimento Java";
-    String objetivo  = "Vaga júnior ou jovem aprendiz";
-    String status    = "Estudando e commitando todo dia";
-    String[] mantra  = {"estudar", "codar", "commitar", "repetir"};
-}
+```bash
+$ whoami
+davi_soares
+
+$ cat perfil.txt
+nome      : Davi Soares de Oliveira
+local     : Crateús, Ceará - Brasil
+foco      : Desenvolvimento Java
+objetivo  : Vaga júnior ou jovem aprendiz
+status    : Estudando e commitando todo dia
+
+$ ./rodar_rotina.sh
+estudar -> codar -> commitar -> repetir
 ```
 
 > 💜 Estou começando minha carreira em tecnologia, com foco em Java. Ainda não tenho projetos grandes, mas estou construindo a base com muito treino e prática.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF2BD6,50:7B2FF7,100:00F0FF" width="100%" />
 
-## `> tecnologias`
+## `> stack`
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,git,github&theme=dark" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-7B2FF7?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Git-00F0FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/GitHub-FF2BD6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" />
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
+
+## `> aprendendo_agora`
+
+```java
+while (estudando) {
+    praticar("Java");
+    commitar();
+    evoluir();
+}
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/☕_JAVA-em_andamento-7B2FF7?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/🔧_GIT_%26_GITHUB-em_andamento-00F0FF?style=for-the-badge&labelColor=0D0221" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF2BD6,50:7B2FF7,100:00F0FF" width="100%" />
+
+## `> roadmap`
+
+- [ ] 🔹 Dominar a base do Java
+- [ ] 🔹 Construir os primeiros projetos
+- [ ] 🔹 Montar meu portfólio aqui no GitHub
+- [ ] 🎯 Conquistar minha vaga de júnior / jovem aprendiz
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
 
@@ -51,13 +91,26 @@ public class Davi {
 
 <div align="center">
 
-<a href="https://github.com/CloudNine-dav?tab=repositories">
-  <img src="https://img.shields.io/badge/☕_TREINO_EM_JAVA-exercícios_e_estudos-7B2FF7?style=for-the-badge&labelColor=0D0221" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🚧_PRIMEIROS_PROJETOS-em_construção-00F0FF?style=for-the-badge&labelColor=0D0221" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>☕ TREINO EM JAVA</h3>
+      <p>Exercícios e estudos que estou commitando enquanto aprendo.</p>
+      <img src="https://img.shields.io/badge/Java-7B2FF7?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D0221" />
+      <br/><br/>
+      <a href="https://github.com/CloudNine-dav/Meu-perfil">
+        <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-00F0FF?style=for-the-badge&labelColor=0D0221" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚧 PRÓXIMO PROJETO</h3>
+      <p>Em construção.</p>
+      <img src="https://img.shields.io/badge/Java-7B2FF7?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D0221" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/EM_BREVE-FF2BD6?style=for-the-badge&labelColor=0D0221" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -83,13 +136,21 @@ public class Davi {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CloudNine-dav/CloudNine-dav/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/CloudNine-dav/CloudNine-dav/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CloudNine-dav/Meu-perfil/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/CloudNine-dav/Meu-perfil/output/github-snake.svg" />
 </picture>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF2BD6,50:7B2FF7,100:00F0FF" width="100%" />
+
+<div align="center">
+
+### 💬 "Todo dev começou com um `Hello, World!`"
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
 
 ## `> contato`
 
