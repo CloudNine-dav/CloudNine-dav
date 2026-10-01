@@ -20,27 +20,17 @@ public class Davi {
     String foco = "Desenvolvimento Java";
     String objetivo = "Vaga júnior ou jovem aprendiz";
     String status = "Estudando e commitando todo dia";
+
+## `> contato`
+
+<div align="center">
+
+<a href="https://instagram.com/davisoares8283">
+  <img src="https://img.shields.io/badge/Instagram-davisoares8283-7B2FF7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0221" />
+</a>
+<a href="https://github.com/CloudNine-dav">
+  <img src="https://img.shields.io/badge/GitHub-CloudNine--dav-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" />
+</a>
+
+</div>
 }
-
-Estou começando minha carreira em tecnologia, com foco em Java. Ainda não tenho projetos grandes, mas estou construindo a base com muito treino e prática.
-> tecnologias
-
-
-> projetos
-
-
-
-> github_stats
-
-
-
-> atividade
-
-
-> trofeus
-
-
-> snake
-
-
-> contato
