@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D0221,40:7B2FF7,100:00F0FF&text=DAVI%20SOARES&fontColor=FFFFFF&fontSize=62&fontAlignY=40&desc=%2F%2F%20cloud%20nine%20%E2%80%A2%20java%20dev%20in%20progress&descAlignY=62&descSize=18&animation=twinkling" width="100%" />
-
+<p align="center">
+  <img src="./header.svg" width="100%" alt="CloudNine">
+</p>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=560&lines=%3E+Estudante+de+Java+%E2%98%95;%3E+Buscando+vaga+j%C3%BAnior+%2F+jovem+aprendiz;%3E+Aprendendo+commit+a+commit+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
