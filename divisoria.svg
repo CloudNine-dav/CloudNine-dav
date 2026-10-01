@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 8" width="800" height="8" preserveAspectRatio="none">
+<defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#00F0FF"/><stop offset=".5" stop-color="#7B2FF7"/><stop offset="1" stop-color="#FF2BD6"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<style>.s{animation:run 3s ease-in-out infinite}@keyframes run{from{transform:translateX(-200px)}to{transform:translateX(900px)}}</style>
+<rect y="3" width="800" height="2" fill="url(#b)" opacity=".55"/>
+<rect class="s" y="2" width="160" height="4" rx="2" fill="url(#g)"/>
+</svg>
