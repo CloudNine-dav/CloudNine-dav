@@ -21,3 +21,26 @@ public class Davi {
     String objetivo = "Vaga júnior ou jovem aprendiz";
     String status = "Estudando e commitando todo dia";
 }
+
+Estou começando minha carreira em tecnologia, com foco em Java. Ainda não tenho projetos grandes, mas estou construindo a base com muito treino e prática.
+> tecnologias
+
+
+> projetos
+
+
+
+> github_stats
+
+
+
+> atividade
+
+
+> trofeus
+
+
+> snake
+
+
+> contato
