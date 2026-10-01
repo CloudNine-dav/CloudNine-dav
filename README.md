@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://raw.githubusercontent.com/CloudNine-dav/CloudNine-dav/main/header.svg" width="100%" alt="CloudNine" />
+<img src="header.svg" width="100%" alt="CloudNine" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=560&lines=%3E+Estudante+de+Java+%E2%98%95;%3E+Buscando+vaga+j%C3%BAnior+%2F+jovem+aprendiz;%3E+Aprendendo+commit+a+commit+%F0%9F%9A%80" alt="Typing SVG" />
@@ -20,28 +20,15 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 ## `> whoami`
 
-```bash
-$ whoami
-davi_soares
-
-$ cat perfil.txt
-nome      : Davi Soares de Oliveira
-local     : Crateús, Ceará - Brasil
-foco      : Desenvolvimento Java
-objetivo  : Vaga júnior ou jovem aprendiz
-status    : Estudando e commitando todo dia
-
-$ ./rodar_rotina.sh
-estudar -> codar -> commitar -> repetir
-```
+<img src="terminal.svg" width="100%" />
 
 > 💜 Estou começando minha carreira em tecnologia, com foco em Java. Ainda não tenho projetos grandes, mas estou construindo a base com muito treino e prática.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF2BD6,50:7B2FF7,100:00F0FF" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 ## `> stack`
 
@@ -57,9 +44,15 @@ estudar -> codar -> commitar -> repetir
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 ## `> aprendendo_agora`
+
+<div align="center">
+
+<img src="cafe.svg" width="280" />
+
+</div>
 
 ```java
 while (estudando) {
@@ -71,12 +64,11 @@ while (estudando) {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/☕_JAVA-em_andamento-7B2FF7?style=for-the-badge&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/🔧_GIT_%26_GITHUB-em_andamento-00F0FF?style=for-the-badge&labelColor=0D0221" />
+<img src="skills.svg" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF2BD6,50:7B2FF7,100:00F0FF" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 ## `> roadmap`
 
@@ -85,9 +77,11 @@ while (estudando) {
 - [ ] 🔹 Montar meu portfólio aqui no GitHub
 - [ ] 🎯 Conquistar minha vaga de júnior / jovem aprendiz
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 ## `> projetos`
+
+<img src="chuva-codigo.svg" width="100%" />
 
 <div align="center">
 
@@ -114,7 +108,7 @@ while (estudando) {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF2BD6,50:7B2FF7,100:00F0FF" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 ## `> github_stats`
 
@@ -129,7 +123,7 @@ while (estudando) {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 ## `> snake`
 
@@ -142,7 +136,7 @@ while (estudando) {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF2BD6,50:7B2FF7,100:00F0FF" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 <div align="center">
 
@@ -150,7 +144,7 @@ while (estudando) {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:7B2FF7,100:FF2BD6" width="100%" />
+<img src="divisoria.svg" width="100%" />
 
 ## `> contato`
 
@@ -165,4 +159,4 @@ while (estudando) {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F0FF,50:7B2FF7,100:0D0221&section=footer&text=%F0%9F%92%9C%20obrigado%20pela%20visita&fontColor=FFFFFF&fontSize=20&fontAlignY=70" width="100%" />
+<img src="rodape.svg" width="100%" />
