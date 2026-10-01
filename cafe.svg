@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" width="320" height="280">
+<defs><linearGradient id="cup" x1="0" x2="1"><stop offset="0" stop-color="#7B2FF7"/><stop offset="1" stop-color="#FF2BD6"/></linearGradient></defs>
+<style>.st{font-family:Fira Code, Consolas, DejaVu Sans Mono, monospace;font-size:26px;font-weight:bold;text-anchor:middle;animation:up 3s ease-out infinite;opacity:0}
+@keyframes up{0%{transform:translateY(0);opacity:0}20%{opacity:.9}100%{transform:translateY(-90px);opacity:0}}
+.glow{animation:gl 2.5s ease-in-out infinite alternate}@keyframes gl{from{opacity:.3}to{opacity:.7}}</style>
+<rect width="320" height="280" rx="14" fill="#0D0221"/>
+<ellipse class="glow" cx="160" cy="190" rx="110" ry="40" fill="#7B2FF7" opacity=".4"/>
+<text class="st" x="118" y="120" style="animation-delay:0s" fill="#00F0FF">{</text><text class="st" x="150" y="120" style="animation-delay:1s" fill="#7B2FF7">&lt;/&gt;</text><text class="st" x="190" y="120" style="animation-delay:2s" fill="#FF2BD6">}</text>
+<ellipse cx="160" cy="232" rx="95" ry="12" fill="#1a0f3a" stroke="#00F0FF" stroke-opacity=".6"/>
+<path d="M90,140 L230,140 L218,220 Q160,236 102,220Z" fill="url(#cup)"/>
+<path d="M228,152 C262,152 262,198 222,200" fill="none" stroke="#FF2BD6" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="160" cy="140" rx="70" ry="10" fill="#3b1f12"/>
+<text x="160" y="190" text-anchor="middle" fill="#fff" style="font-family:Fira Code, Consolas, DejaVu Sans Mono, monospace;font-size:20px;font-weight:bold">JAVA</text>
+<text x="160" y="266" text-anchor="middle" fill="#9D8CFF" style="font-family:Fira Code, Consolas, DejaVu Sans Mono, monospace;font-size:13px">java.brew();</text>
+</svg>
