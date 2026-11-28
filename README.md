@@ -6,15 +6,11 @@
 ```java
 public class Davi {
     String usuario = "CloudNine-dav";
-    String foco = "Backend com Java";
-    String[] estudando = {"POO", "Spring Boot"};
-    String certificado = "Java Básico (40h)";
-    String objetivo = "Jovem aprendiz ou júnior";
 }
 ```
 </td>
 <td width="45%" align="center">
-<img src="wallpaper_1.svg" width="100%" alt="Quarto animado com chuva na janela e código no monitor" />
+<img src="wallpaper.svg" width="100%" alt="Quarto animado com chuva na janela e código no monitor" />
 </td>
 </tr>
 </table>
@@ -34,6 +30,6 @@ public class Davi {
 <img src="titulo-v.svg" width="100%" alt="V · Contato" />
 <p>
   <a href="https://github.com/CloudNine-dav"><img src="contato-github.svg" width="49%" alt="GitHub @CloudNine-dav" /></a>
-  <a href="https://instagram.com/davisoares8283"><img src="contato-instagram.svg" width="49%" alt="Instagram @davisoares8283" /></a>
+  <a href="https://instagram.com"><img src="contato-instagram.svg" width="49%" alt="Instagram @davisoares8283" /></a>
 </p>
 <img src="rodape.svg" width="100%" alt="CloudNine" />
