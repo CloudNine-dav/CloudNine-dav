@@ -21,12 +21,12 @@ public class Davi {
 <a href="https://github.com/CloudNine-dav/java-estudos"><img src="projeto-java-estudos.svg" width="100%" alt="java-estudos: exercícios de Orientação a Objetos" /></a>
 <img src="titulo-iv.svg" width="100%" alt="IV · Estatísticas" />
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CloudNine-dav&show_icons=true&hide_border=true&border_radius=24&bg_color=111111&title_color=e8141b&icon_color=e8141b&text_color=efeeea&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudNine-dav&layout=compact&hide_border=true&border_radius=24&bg_color=111111&title_color=e8141b&text_color=efeeea&locale=pt-br" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/CloudNine-dav/CloudNine-dav/output/geral.svg" width="49%" alt="Estatísticas gerais: commits, repositórios, estrelas, PRs e issues" />
+  <img src="https://raw.githubusercontent.com/CloudNine-dav/CloudNine-dav/output/linguagens.svg" width="49%" alt="Linguagens mais usadas" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CloudNine-dav&hide_border=true&border_radius=24&background=111111&ring=e8141b&fire=e8141b&currStreakLabel=e8141b&sideLabels=efeeea&currStreakNum=efeeea&sideNums=efeeea&dates=8d8d8d&stroke=333333&locale=pt_BR" alt="Sequência de commits" />
-</p>
+<img src="https://raw.githubusercontent.com/CloudNine-dav/CloudNine-dav/output/sequencia.svg" width="100%" alt="Sequência de commits" />
+<img src="https://raw.githubusercontent.com/CloudNine-dav/CloudNine-dav/output/atividade.svg" width="100%" alt="Gráfico de atividade dos últimos 31 dias" />
+<img src="https://raw.githubusercontent.com/CloudNine-dav/CloudNine-dav/output/cobrinha.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições" />
 <img src="titulo-v.svg" width="100%" alt="V · Contato" />
 <p>
   <a href="https://github.com/CloudNine-dav"><img src="contato-github.svg" width="49%" alt="GitHub @CloudNine-dav" /></a>
